@@ -19,30 +19,43 @@ Stay tuned for more details about the game and its features. Enjoy playing! 😊
 
 Now, let me introduce you to the different parts of the game. :)
 
-#### Here is the Login Page
+### Here is the Login Page 🗝
 If you have an account, you can Login to your account with your username & password, otherwise you need to create an account to start playing.
 
 
 ![Login](/images/loginpage.png)
 
-### This is the Game Menu
-
+### This is the Game Menu 🎈
+From here, you can choose to play a new game, continue a saved game, or view the leaderboard.
 
 ![Menu](/images/GameMenu.png)
 
-### Game Levels!
+### And Game Levels !
 
 ![Levels](/images/gameLevels.png)
 
-## Installation
+## And how to play this Game? 🎭
+You need to go through the following steps:
+
+## Installation 🚶‍♀️
 
 ### Prerequisites
 - C++ compiler (g++ or equivalent)
 - Make (optional)
 
-### Building from Source
+### Building from Source 🔨
+
+First, clone the project and go to your folder...
 ```bash
 git clone https://github.com/yourusername/sudoku.git
 cd sudoku
+```
+And next, for compiling the game, here is what you need to do:
+```bash
 make  # or compile manually: g++ game.cpp clui.cpp func.cpp -o sudoku
 ./sudoku
+```
+
+
+
+## Enjoy the game! 🚀
