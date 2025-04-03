@@ -28,4 +28,21 @@ If you have an account, you can Login to your account with your username & passw
 ### This is the Game Menu
 
 
-![Menu](/images/
+![Menu](/images/GameMenu.png)
+
+### Game Levels!
+
+![Levels](/images/gameLevels.png)
+
+## Installation
+
+### Prerequisites
+- C++ compiler (g++ or equivalent)
+- Make (optional)
+
+### Building from Source
+```bash
+git clone https://github.com/yourusername/sudoku.git
+cd sudoku
+make  # or compile manually: g++ game.cpp clui.cpp func.cpp -o sudoku
+./sudoku
